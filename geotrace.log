@@ -1,0 +1,111 @@
+2025-07-31 11:48:04,270 [INFO] Iniciando recopilación de información del sistema...
+2025-07-31 11:48:06,440 [INFO] Último Usuario: oscar.lopez
+2025-07-31 11:48:06,440 [INFO] Activo: VQ-5165
+2025-07-31 11:48:06,440 [INFO] Fecha/Hora: 2025-07-31 11:48:04
+2025-07-31 11:48:06,441 [INFO] RAM Total (GB): 15.68
+2025-07-31 11:48:06,441 [INFO] Disco Total (GB): 476.18
+2025-07-31 11:48:06,441 [INFO] SO: Windows
+2025-07-31 11:48:06,441 [INFO] Versión SO: 10.0.26100
+2025-07-31 11:48:06,441 [INFO] Serial: PF4SJZRR
+2025-07-31 11:48:06,441 [INFO] Fabricante: LENOVO
+2025-07-31 11:48:06,442 [INFO] Modelo: 21JL000LLM
+2025-07-31 11:48:06,442 [INFO] Procesador: 13th Gen Intel(R) Core(TM) i5-1335U
+2025-07-31 11:48:06,442 [INFO] 
+Iniciando geolocalización por navegador...
+2025-07-31 11:48:12,416 [INFO] Geolocalización navegador: 4.7085509, -74.0446888 (±2263.9325199607842m)
+2025-07-31 11:48:14,670 [INFO] 
+Iniciando geolocalización por IP...
+2025-07-31 11:48:15,089 [INFO] 
+Iniciando geolocalización por WiFi...
+2025-07-31 11:48:15,454 [WARNING] No se detectaron redes WiFi
+2025-07-31 11:48:15,454 [INFO] 
+Combinando resultados de geolocalización...
+2025-07-31 11:48:15,455 [INFO] 
+Ubicación final determinada:
+2025-07-31 11:48:15,455 [INFO] Latitud: 4.70396560223204
+2025-07-31 11:48:15,455 [INFO] Longitud: -74.05367384604608
+2025-07-31 11:48:15,455 [INFO] Precisión estimada: ±7719.238053335368 metros
+2025-07-31 11:48:15,456 [INFO] Fuentes utilizadas: navegador, ip
+2025-07-31 11:48:15,456 [INFO] Confianza: baja
+2025-07-31 11:48:15,456 [WARNING] Folium no está instalado, no se generará mapa
+2025-07-31 11:48:15,457 [INFO] 
+Buscando receptor disponible...
+2025-07-31 11:48:19,516 [ERROR] Error enviando datos a http://localhost:5000/api/geoloc: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/geoloc (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026BEB4DFC50>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-07-31 11:48:21,539 [ERROR] Error enviando datos a http://127.0.0.1:5000/api/geoloc: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /api/geoloc (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026BEB5C4910>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-07-31 11:48:22,017 [ERROR] Error enviando datos a https://tu-servidor.com/api/geoloc: HTTPSConnectionPool(host='tu-servidor.com', port=443): Max retries exceeded with url: /api/geoloc (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_ACCESS_DENIED] tlsv1 alert access denied (_ssl.c:1028)')))
+2025-07-31 11:48:22,017 [INFO] 
+Proceso completado
+2025-07-31 11:59:53,902 [INFO] Iniciando recopilación de información del sistema...
+2025-07-31 11:59:56,046 [INFO] Último Usuario: oscar.lopez
+2025-07-31 11:59:56,046 [INFO] Activo: VQ-5165
+2025-07-31 11:59:56,047 [INFO] Fecha/Hora: 2025-07-31 11:59:53
+2025-07-31 11:59:56,047 [INFO] RAM Total (GB): 15.68
+2025-07-31 11:59:56,047 [INFO] Disco Total (GB): 476.18
+2025-07-31 11:59:56,047 [INFO] SO: Windows
+2025-07-31 11:59:56,047 [INFO] Versión SO: 10.0.26100
+2025-07-31 11:59:56,047 [INFO] Serial: PF4SJZRR
+2025-07-31 11:59:56,047 [INFO] Fabricante: LENOVO
+2025-07-31 11:59:56,047 [INFO] Modelo: 21JL000LLM
+2025-07-31 11:59:56,047 [INFO] Procesador: 13th Gen Intel(R) Core(TM) i5-1335U
+2025-07-31 11:59:56,047 [INFO] 
+Iniciando geolocalización por navegador...
+2025-07-31 12:00:01,202 [INFO] Geolocalización navegador: 4.7085509, -74.0446888 (±2263.9325199607842m)
+2025-07-31 12:00:05,093 [INFO] 
+Iniciando geolocalización por IP...
+2025-07-31 12:00:05,581 [INFO] 
+Iniciando geolocalización por WiFi...
+2025-07-31 12:00:05,892 [WARNING] No se detectaron redes WiFi
+2025-07-31 12:00:05,892 [INFO] 
+Combinando resultados de geolocalización...
+2025-07-31 12:00:05,893 [INFO] 
+Ubicación final determinada:
+2025-07-31 12:00:05,893 [INFO] Latitud: 4.70396560223204
+2025-07-31 12:00:05,893 [INFO] Longitud: -74.05367384604608
+2025-07-31 12:00:05,893 [INFO] Precisión estimada: ±7719.238053335368 metros
+2025-07-31 12:00:05,893 [INFO] Fuentes utilizadas: navegador, ip
+2025-07-31 12:00:05,894 [INFO] Confianza: baja
+2025-07-31 12:00:08,463 [INFO] Mapa generado en ubicacion.html
+2025-07-31 12:00:08,463 [INFO] 
+Buscando receptor disponible...
+2025-07-31 12:00:12,519 [ERROR] Error enviando datos a http://localhost:5000/api/geoloc: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/geoloc (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E8BF6379D0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-07-31 12:00:14,568 [ERROR] Error enviando datos a http://127.0.0.1:5000/api/geoloc: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /api/geoloc (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E8BF84C190>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-07-31 12:00:15,001 [ERROR] Error enviando datos a https://geotracecenter.onrender.com: 405 Client Error: Method Not Allowed for url: https://geotracecenter.onrender.com/
+2025-07-31 12:00:15,002 [INFO] 
+Proceso completado
+2025-07-31 12:08:09,762 [INFO] Iniciando recopilación de información del sistema...
+2025-07-31 12:08:11,909 [INFO] Último Usuario: oscar.lopez
+2025-07-31 12:08:11,910 [INFO] Activo: VQ-5165
+2025-07-31 12:08:11,910 [INFO] Fecha/Hora: 2025-07-31 12:08:09
+2025-07-31 12:08:11,911 [INFO] RAM Total (GB): 15.68
+2025-07-31 12:08:11,911 [INFO] Disco Total (GB): 476.18
+2025-07-31 12:08:11,911 [INFO] SO: Windows
+2025-07-31 12:08:11,911 [INFO] Versión SO: 10.0.26100
+2025-07-31 12:08:11,912 [INFO] Serial: PF4SJZRR
+2025-07-31 12:08:11,912 [INFO] Fabricante: LENOVO
+2025-07-31 12:08:11,912 [INFO] Modelo: 21JL000LLM
+2025-07-31 12:08:11,912 [INFO] Procesador: 13th Gen Intel(R) Core(TM) i5-1335U
+2025-07-31 12:08:11,912 [INFO] 
+Iniciando geolocalización por navegador...
+2025-07-31 12:08:17,124 [INFO] Geolocalización navegador: 4.7085509, -74.0446888 (±2263.9325199607842m)
+2025-07-31 12:08:21,137 [INFO] 
+Iniciando geolocalización por IP...
+2025-07-31 12:08:21,545 [INFO] 
+Iniciando geolocalización por WiFi...
+2025-07-31 12:08:21,838 [WARNING] No se detectaron redes WiFi
+2025-07-31 12:08:21,839 [INFO] 
+Combinando resultados de geolocalización...
+2025-07-31 12:08:21,840 [INFO] 
+Ubicación final determinada:
+2025-07-31 12:08:21,840 [INFO] Latitud: 4.70396560223204
+2025-07-31 12:08:21,841 [INFO] Longitud: -74.05367384604608
+2025-07-31 12:08:21,841 [INFO] Precisión estimada: ±7719.238053335368 metros
+2025-07-31 12:08:21,841 [INFO] Fuentes utilizadas: navegador, ip
+2025-07-31 12:08:21,841 [INFO] Confianza: baja
+2025-07-31 12:08:22,357 [INFO] Mapa generado en ubicacion.html
+2025-07-31 12:08:22,357 [INFO] 
+Buscando receptor disponible...
+2025-07-31 12:08:26,436 [ERROR] Error enviando datos a http://localhost:5000/api/geoloc: HTTPConnectionPool(host='localhost', port=5000): Max retries exceeded with url: /api/geoloc (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002500A9D79D0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-07-31 12:08:28,472 [ERROR] Error enviando datos a http://127.0.0.1:5000/api/geoloc: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /api/geoloc (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002500ABEC190>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-07-31 12:08:28,908 [ERROR] Error enviando datos a https://geotracecenter.onrender.com: 405 Client Error: Method Not Allowed for url: https://geotracecenter.onrender.com/
+2025-07-31 12:08:28,909 [INFO] 
+Proceso completado
